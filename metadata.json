@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "Comprehensive Employee Management System with department management, role tracking, salaries, and performance reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
